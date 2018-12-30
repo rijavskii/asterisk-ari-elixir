@@ -1,0 +1,4 @@
+{
+  "packageName" : "asterisk_ari",
+  "invokerPackage": "Asterisk.ARI"
+}
